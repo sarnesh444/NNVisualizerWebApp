@@ -6,6 +6,9 @@
 The model is trained on MNSIT(hand written digits) using tf+keras in google colab and exported as h5 using Flask a backend code to handle get and post requests is written the front-end is entirely written in streamlit using which the user can send a post request server selects an image at random from the test set and returns the output of each layer.
 #### The lighter the box higher is the chance that it is getting activated!
 
+### Sample
+![alt text](https://github.com/sarnesh444/NNVisualizerWebApp/blob/master/sample.JPG)
+
 ## Major tools used
 
 * [Streamlit](https://docs.streamlit.io/en/latest/) a python package to create web applications for a machine learning ecosystem.
@@ -50,8 +53,3 @@ Here are 3 steps to contributing.
 
 #### This project is NOT meant for production and hasn't been tested thoroughly.
 
-
-
-
-### Sample
-![alt text](https://github.com/sarnesh444/NNVisualizerWebApp/blob/master/sample.JPG)
