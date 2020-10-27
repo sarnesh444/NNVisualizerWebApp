@@ -27,7 +27,7 @@ Click==7.0
 cmake==3.17.2
 colorama==0.4.1
 confuse==1.0.0
-cryptography==2.9.2
+cryptography==3.2
 cvlib==0.2.3
 cycler==0.10.0
 decorator==4.4.0
