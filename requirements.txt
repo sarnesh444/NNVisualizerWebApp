@@ -141,7 +141,7 @@ pytest-pylint==0.14.1
 python-dateutil==2.8.0
 pytz==2019.1
 pywinpty==0.5.5
-PyYAML==5.1.1
+PyYAML==5.4
 pyzmq==18.0.2
 qgrid==1.1.1
 requests==2.22.0
