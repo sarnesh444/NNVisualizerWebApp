@@ -38,7 +38,7 @@ dominate==2.4.0
 entrypoints==0.3
 enum-compat==0.0.3
 et-xmlfile==1.0.1
-eventlet==0.25.2
+eventlet==0.31.0
 falcon==2.0.0
 Flask==1.0.2
 Flask-Bootstrap==3.3.7.1
