@@ -103,7 +103,7 @@ notebook==5.7.8
 numba==0.45.1
 numpy==1.16.2
 oauthlib==3.1.0
-opencv-python==4.1.0.25
+opencv-python==4.2.0.32
 openpyxl==2.6.1
 packaging==19.2
 pafy==0.5.4
