@@ -115,7 +115,7 @@ pathtools==0.1.2
 phik==0.9.8
 pickleshare==0.7.5
 Pillow==7.1.1
-pipenv==2018.11.26
+pipenv==2022.1.8
 plotly==4.8.0
 pluggy==0.13.0
 progressbar==2.5
